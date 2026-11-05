@@ -1,3 +1,5 @@
+# Archer Niemi 11-3-2026
+
 """COM S 1270 - Chapter 10: Exceptions
 
 Lecture date:
