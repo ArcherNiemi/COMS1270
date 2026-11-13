@@ -7,7 +7,7 @@ def isPalindrome(word):
     return True
 
 def wordDecrypter(word):
-    return "".join([char for char in word[::2]])
+    return word[::2]
 
 def main():
     print(isPalindrome("thht"))
